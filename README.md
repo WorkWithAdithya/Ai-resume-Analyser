@@ -85,3 +85,6 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+=======
+# Ai-resume-Analyser
+>>>>>>> 3c148697982964c61e4df74ec2bc520c1806a841
